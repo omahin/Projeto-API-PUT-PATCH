@@ -28,36 +28,36 @@ para localizar um filme pelo gênero, utilizando parâmetros. -->
 <!-- :small_blue_diamond: {GET}/:id 
 para visualizar um filme específico, consultando pelo id. -->
 
-:small_blue_diamond: {POST}/create
+:small_blue_diamond: **{POST}/create**
 
-para criar uma nova entrada de filmes.
+Para criar uma nova entrada de filmes.
 
-:small_blue_diamond: {DELETE}/:id
+:small_blue_diamond: **{DELETE}/:id**
 
-para deletar um filme.
+Para deletar um filme.
 
-:small_blue_diamond: {PUT}/:id 
+:small_blue_diamond: **{PUT}/:id**
 
-para atualizar um filme.
+Para atualizar um filme.
 
-:small_blue_diamond: {PATCH}/updateTitle/:id
+:small_blue_diamond: **{PATCH}/updateTitle/:id**
 
-para atualizar o título de um filme.
+Para atualizar o título de um filme.
 
-:small_blue_diamond: {PUT}/uptade/:id
+:small_blue_diamond: **{PUT}/uptade/:id**
 
-para atualizar qualquer parte das entradas separadamente.
+Para atualizar qualquer parte das entradas separadamente.
 
 ### To-do-api
 
-:small_blue_diamond: {PUT}/:id 
+:small_blue_diamond: **{PUT}/:id**
 
-para atualizar uma task.
+Para atualizar uma task.
 
-:small_blue_diamond: {PATCH}/updateTitle/:id
+:small_blue_diamond: **{PATCH}/updateTitle/:id**
 
-para atualizar o título de uma task.
+Para atualizar o título de uma task.
 
-:small_blue_diamond: {PUT}/uptade/:id
+:small_blue_diamond: **{PUT}/uptade/:id**
 
-para atualizar qualquer parte das entradas separadamente.
+Para atualizar qualquer parte das entradas separadamente.
