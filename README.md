@@ -9,7 +9,7 @@ Reprograma :rocket: | Turma Online 12 | Back-end | 2021 | Projeto Prático com A
 Completar CRUDs do reprogramaflix e do to-do-api já feitos anteriormente, com os métodos HTTP aprendidos na semana 10, Put e Patch. 
 <br />
 
-## Demandas de negócio & rotas criadas:hammer_and_wrench:
+## Demandas de negócio & rotas criadas :hammer_and_wrench:
 
 ### Reprogramaflix
 
