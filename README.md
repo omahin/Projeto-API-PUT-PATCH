@@ -9,7 +9,7 @@ Reprograma :rocket: | Turma Online 12 | Back-end | 2021 | Projeto Prático com A
 Completar CRUDs do reprogramaflix e do to-do-api já feitos anteriormente, com os métodos HTTP aprendidos na semana 10, Put e Patch. 
 <br />
 
-## Demandas de negócio :hammer_and_wrench:
+## Demandas de negócio & rotas criadas:hammer_and_wrench:
 
 ### Reprogramaflix
 
@@ -30,34 +30,34 @@ para visualizar um filme específico, consultando pelo id. -->
 
 :small_blue_diamond: **{POST}/create**
 
-Para criar uma nova entrada de filmes.
+Devo conseguir criar uma nova entrada de filmes.
 
 :small_blue_diamond: **{DELETE}/:id**
 
-Para deletar um filme.
+Devo conseguir deletar um filme.
 
 :small_blue_diamond: **{PUT}/:id**
 
-Para atualizar um filme.
+Devo conseguir atualizar um filme.
 
 :small_blue_diamond: **{PATCH}/updateTitle/:id**
 
-Para atualizar o título de um filme.
+Devo conseguir atualizar o título de um filme.
 
 :small_blue_diamond: **{PUT}/uptade/:id**
 
-Para atualizar qualquer parte das entradas separadamente.
+Devo conseguir atualizar qualquer parte das entradas separadamente.
 
 ### To-do-api
 
 :small_blue_diamond: **{PUT}/:id**
 
-Para atualizar uma task.
+Devo conseguir atualizar uma task.
 
 :small_blue_diamond: **{PATCH}/updateTitle/:id**
 
-Para atualizar o título de uma task.
+Devo conseguir atualizar o título de uma task.
 
 :small_blue_diamond: **{PUT}/uptade/:id**
 
-Para atualizar qualquer parte das entradas separadamente.
+Devo conseguir atualizar qualquer parte das entradas separadamente.
